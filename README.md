@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Central Philippine University<br>🌱 I’m currently a Software Engineering Student
+🔭 Learning in progress, improving daily.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Steven%20Ballaret)
